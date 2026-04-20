@@ -15,9 +15,16 @@
 </p>
 
 <p align="center">
-  <a href="http://79.72.18.79/#intro">
-    <img src="https://api.microlink.io/?url=http://79.72.18.79/#intro&screenshot=true&meta=false&embed=screenshot.url"/>
-  </a>
+___███████▀◢▆▅▃ 　　　   　　 　　　 ▀▀████ONII CHAN
+___██████▌◢▀█▓▓█◣   　　　　　　▂▃▃　 ████onii chan
+__▐▐█████▍▌▐▓▓▉　　　　　　　◢▓▓█ ▼ ████ONII CHAN
+__▌██████▎　▀▀▀　　　　　　 　█▓▓▌ ▌ █████▌onii chan
+_▐ ██████▊　ℳ　　　　　　　　▀◥◤▀    ▲████▉ONII CHAN
+_▊███████◣　　　　　　　′　　　ℳ　▃◢██████▐onii chan
+_▉ ████████◣　　　　　▃、　　　　　◢███▊███ ONII CHAN
+_▉　█████████▆▃　　　　　　　 ◢████▌ ███ onii chan
+_▉　████▋████▉▀◥▅▃▃▅▇███▐██▋　▐██ ONII CHAN
+
 </p>
 
 ---
