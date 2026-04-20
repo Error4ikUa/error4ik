@@ -10,7 +10,7 @@
 
 <p align="center">
   <a href="http://79.72.18.79/#intro">
-    <img src="https://img.shields.io/badge/🌐 ENTER DOMAIN-6C63FF?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+    <img src="https://img.shields.io/badge/🌐 NekoNekoNee-6C63FF?style=for-the-badge&logo=google-chrome&logoColor=white"/>
   </a>
 </p>
 <div align="center">
